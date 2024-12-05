@@ -1,0 +1,76 @@
+    1  wcd
+    2  pwd
+    3  ls
+    4  ls -l
+    5  pwd
+    6  ls
+    7  ls -s
+    8  ls -l
+    9  ls
+   10  ls -l
+   11  pwd
+   12  git config --global user.email pozitif0000@gmail.com
+   13  git config --global user.name Pavlo689
+   14  git clone https://github.com/Pavlo689/HW_10.git
+   15  touch text_ignore.txt
+   16  ls
+   17  cd HW_10/HW_10
+   18  cd HW_10/HW_10/
+   19  cd HW_10/
+   20  touch text_ignore.txt
+   21  code .gitignore text_ignore.txt
+   22  code .gitignore
+   23  text_ignore.txt
+   24  git status
+   25  git add .
+   26  git commit -m .gitignore text_ignore.txt
+   27  touch main_test.txt
+   28  git add main_test.txt
+   29  git commit -m "Додав файл .gitignore для ігнорування text_ignore.txt"
+   30  git commit -m "Додав файл main_test.txt
+   31  git log.
+   32  git commit -m "Додав файл .gitignore для ігнорування text_ignore.txt"
+   33  ls
+   34  wcd
+   35  git branch feature_1
+   36  git checkout feature_1
+   37  git status
+   38  апрэдлмсюб
+   39  help
+   40  lsca
+   41  ls
+   42  ls -l
+   43  pwd
+   44  git config --global user.email pozitif0000@gmail.com
+   45  git config --global user.name Pavlo689
+   46  git clone https://github.com/Pavlo689/HW_10.git
+   47  git config --global user.name Pavlo689
+   48  git config --global user.email pozitif0000@gmail.com
+   49  git clone https://github.com/Pavlo689/HW_10.git
+   50  cd HW_10/
+   51  ls
+   52  ls -l
+   53  pwd
+   54  la -a
+   55  la
+   56  ls -a
+   57  touch text_ignore.txt
+   58  git status
+   59  git add
+   60  git commit -m "Додав файл .gitignore для ігнорування text_ignore.txt"
+   61  touch main_test.txt
+   62  git add main_test.txt
+   63  git commit -m "Додав файл main_test.txt"
+   64  git branch develop
+   65  git checkout develop
+   66  touch develop_test.txt
+   67  git add .
+   68  git commit -m "Додав файл develop_test.txt"
+   69  git status
+   70  git add .
+   71  git commit -m "Зробив невелику зміну в develop_test.txt"
+   72  git checkout main
+   73  git checkout master
+   74  git merge develop
+   75  git log
+   76  history > command_list.csv
